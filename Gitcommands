@@ -1,0 +1,7 @@
+1. git initate (to get intial repo)
+2. git status
+3. git add .(dot for all files) and git add filename
+4. git commit -m "message"
+5. git branch name
+6. git clone branch name (master branch is default)
+7. git pull path from local repository
