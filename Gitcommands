@@ -1,4 +1,4 @@
-1. git initate (to get intial repo)
+1. git init (to get intial repo)
 2. git status
 3. git add .(dot for all files) and git add filename
 4. git commit -m "message"
