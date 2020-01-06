@@ -2,6 +2,9 @@
 2. git status
 3. git add .(dot for all files) and git add filename (called staging area)
 4. git commit -m "message"
-5. git branch name
-6. git checkout branch name (master branch is default)
+5. git branch (shows current branch name)
+6. git checkout branch name (change branch, master branch is default)
 7. git pull path from local repository
+8. git log (shows brnaches and and its files)
+9. git diff (shows changes in files data)
+
