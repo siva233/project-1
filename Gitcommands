@@ -9,3 +9,4 @@
 9. git diff (shows changes in files data)
 10. git merge branchname (merging one branch files to another branch)
 11. git branch -d branch (to delete branch name and u cant delete the branch which is currently using one)
+git stash
